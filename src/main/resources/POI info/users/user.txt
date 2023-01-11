@@ -1,0 +1,7 @@
+526,206,chnge name test,changed,1,true,0,MC
+
+
+471,255,user POI,dfsdf,0,true,0,new build
+408,239,user test POI,dfsdf,2,true,0,new build
+1020,176,change name,,3,true,0,MC
+453,253,new test POI 2,ddd,0,true,1,MC
